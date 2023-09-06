@@ -36,9 +36,10 @@ class Program
         }
 
         Console.WriteLine("GPA point: " + gpaPoints);*/
+
         
         //Question 2 code
-        Console.WriteLine("Please input the first num:");
+        /*Console.WriteLine("Please input the first num:");
         string input1 = Console.ReadLine();
         short num1 = Convert.ToInt16(input1);
 
@@ -62,6 +63,20 @@ class Program
             smallest = num3;
         }
 
-        Console.WriteLine("The smallest value is: " + smallest);
+        Console.WriteLine("The smallest value is: " + smallest);*/
+
+        
+        //Bonus Question Code
+        /*Console.WriteLine("Please input a year:");
+        int year = Convert.ToInt16(Console.ReadLine());
+
+        if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
+        {
+            Console.WriteLine($"{year} is a Leap Year.");
+        }
+        else
+        {
+            Console.WriteLine($"{year} is not a Leap Year.");*/
+
     }
 }
