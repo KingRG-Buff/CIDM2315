@@ -11,7 +11,7 @@ class Program
         int N = Convert.ToInt32(Console.ReadLine());
         
         int i = 2;
-        for (i = 2; i < integer; i++)
+        for (i = 2; i < N; i++)
         {
             if (N % i == 0) //i had to google the calc for prime numbers in c#       
                 break;
