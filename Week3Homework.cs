@@ -8,21 +8,21 @@ class Program
         /*
         Console.WriteLine("Enter a number: "); 
 
-        int number = Convert.ToInt32(Console.ReadLine());
+        int N = Convert.ToInt32(Console.ReadLine());
         
         int i = 2;
-        for (i = 2; i < number; i++)
+        for (i = 2; i < integer; i++)
         {
-            if (number % i == 0) //i had to google the calc for prime numbers in c#       
+            if (N % i == 0) //i had to google the calc for prime numbers in c#       
                 break;
         }
-        if (i == number)
+        if (i == N)
         {
-            Console.WriteLine($"{number} is a prime number.");
+            Console.WriteLine($"{N} is a prime number.");
         }
         else
         {
-            Console.WriteLine($"{number} is not a prime number.");
+            Console.WriteLine($"{N} is not a prime number.");
         }
         */
 
