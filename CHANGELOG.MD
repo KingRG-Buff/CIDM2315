@@ -4,3 +4,4 @@
 -Upload Week1 Homework 1 part 1
 -Upload Week2 Lecture 2 file Wk2Lecture2.cs
 -Upload Week2 Homework File Week2Homework.cs
+-Upload Week3 Homework File Week3Homework.cs
