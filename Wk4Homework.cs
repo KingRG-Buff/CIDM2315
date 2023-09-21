@@ -19,10 +19,10 @@ class Program
     static void Main(string[] args)   
     {
        Console.WriteLine("Enter a number:");
-            int a = Convert.ToInt16(Console.ReadLine());
+            int a = Convert.ToInt16(Console.ReadLine()); // Got errors: Partnered with my friend Mike to figure out this method
 
         Console.WriteLine("Enter another number:");
-            int b = Convert.ToInt16(Console.ReadLine());
+            int b = Convert.ToInt16(Console.ReadLine()); // Got errors: Partnered with my friend Mike to figure out this method
        
             int greater = numbers(a, b);
         
